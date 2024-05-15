@@ -1,0 +1,58 @@
+body{
+    background-color: #cccccccc
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+#banner {
+width: 100%;
+
+}
+
+p{ 
+    text-align: center;
+}
+
+#missão {
+    style="font-size: 20px;"
+
+}
+
+em strong{
+    color: red;
+}
+
+.itens {
+font-style:italic ;
+
+}
+.Beneficios {
+background: rgb(159, 200, 238);
+padding: 20px;
+}
+.principal{
+background:rgb(74, 123, 168) ;
+padding: 30px;
+
+}
+
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right:  10%; ;
+}
+
+#imagemrichas{
+width: 50%;
+
+}
+
+
+
+
+
+
